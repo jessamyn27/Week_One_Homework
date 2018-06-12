@@ -11,3 +11,6 @@
 1. git branch
 2. git checkout (name)
 3. collaborative projects, tests ect...
+
+1. use git merge to merge to the branch, a pull request would go up and get approval first
+2. git add .

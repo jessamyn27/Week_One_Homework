@@ -7,3 +7,7 @@
 3. git reset --
 4. use -- to go back in case you need to
 5. go back in case you made a mistake
+
+1. git branch
+2. git checkout (name)
+3. collaborative projects, tests ect...
